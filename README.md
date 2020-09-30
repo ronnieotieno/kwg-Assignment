@@ -1,10 +1,11 @@
 # KWG Assignment
 
-The App uses a set of Android Jetpack libraries plus Retrofit to dispay data from REST API.
+The App uses a set of Android Jetpack libraries plus Retrofit to dispay data from REST API. The App uses Kotlin.
 
 ### Prerequisites
 
-The project has all required dependencies in the build.gradle file.
+The project has all required dependencies in the gradle files. 
+Add the Project to Android Studio or Intelij and build.All the required dependencies will be downloaded and installed.
 
 ## Architecture
 
