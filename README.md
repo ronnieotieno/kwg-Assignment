@@ -1,4 +1,4 @@
-# SWG Assignment
+# KWG Assignment
 
 The App uses a set of Android Jetpack libraries plus Retrofit to dispay data from REST API.
 
@@ -18,7 +18,7 @@ The project uses MVVM architecture pattern.
 navigation between fragments
 * [Dagger Hilt](https://developer.android.com/jetpack/androidx/releases/hilt) - For Dependency Injection.
 * [Paging 3](https://developer.android.com/topic/libraries/architecture/paging/v3-overview?hl=in) - Allow pagination of the Data.
-* [Retrofit](https://square.github.io/retrofit/) - To acces the Rest Api
+* [Retrofit](https://square.github.io/retrofit/) - To access the Rest Api
 
 ## Screenshots
 |<img src="screenshots/home.jpg" width=200/>|<img src="screenshots/posts.jpg" width=200/>|<img src="screenshots/error.jpg" width=200/>|<img src="screenshots/list_error.jpg" width=200/>|
