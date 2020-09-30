@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">KWG Assignment</string>
+    <string name="kwg_logo">KWG Logo</string>
+    <string name="view_posts">View Posts</string>
+    <string name="error_msg">%1$s\nTap to Retry</string>
+    <string name="retry">Retry</string>
+    <string name="link">Link</string>
+</resources>
