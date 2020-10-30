@@ -16,7 +16,6 @@ import kotlinx.android.synthetic.main.network_state_item.view.*
 class PostsLoadingStateAdapter(private val retry: () -> Unit) :
     LoadStateAdapter<PostsLoadingStateAdapter.LoadStateViewHolder>() {
 
-
     override fun onBindViewHolder(holder: LoadStateViewHolder, loadState: LoadState) {
 
         val progress = holder.itemView.progress_bar_item

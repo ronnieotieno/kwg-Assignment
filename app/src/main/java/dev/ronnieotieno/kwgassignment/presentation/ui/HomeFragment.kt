@@ -25,7 +25,7 @@ class HomeFragment : Fragment(R.layout.fragment_home) {
 
     //Navigating to posts Fragment
     private fun navigate() {
-        binding.root.findNavController().navigate(R.id.toPostsViewFragment)
+        binding.root.findNavController().navigate(HomeFragmentDirections.toPostsViewFragment())
     }
 
 }

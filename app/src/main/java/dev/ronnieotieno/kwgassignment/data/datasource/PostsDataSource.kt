@@ -22,7 +22,6 @@ class PostsDataSource(private val postsApi: PostsApi) :
             val posts = postsApi.getPosts(params.loadSize, startingIndex)
             val lastItem = posts.last()
 
-
             /**
              * Since I am supposed to load more than 25 Items but less than 101 items, Here I am checking if the id is equal or more than
              * 100 so I can stop loading extra items.
